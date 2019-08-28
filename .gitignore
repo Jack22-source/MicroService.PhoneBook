@@ -3,3 +3,21 @@
 ################################################################################
 
 /MicroService.PhoneBook/.vs/MicroService.PhoneBook/v16
+/MicroService.PhoneBook/bin/Debug/netcoreapp2.2
+/MicroService.PhoneBook/obj/Debug/netcoreapp2.2
+/MicroService.PhoneBook/obj
+/MicroService.PhoneBook.Data/bin/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Data/obj/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Data/obj
+/MicroService.PhoneBook.Repository/bin/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Repository/obj/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Repository/obj
+/MicroService.PhoneBook.Repository.Model/bin/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Repository.Model/obj/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Repository.Model/obj
+/MicroService.PhoneBook.Service/bin/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Service/obj/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Service/obj
+/MicroService.PhoneBook.Service.Domain/bin/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Service.Domain/obj/Debug/netcoreapp2.2
+/MicroService.PhoneBook.Service.Domain/obj
