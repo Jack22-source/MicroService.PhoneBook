@@ -16,10 +16,10 @@ Clone the project down to your machine.
 Set MicroService.Phonebook as your default project
 Run the project
 You should see a swagger front end with comments - 
- -- Insert one or multiple entries
- -- Get those entries, they can also be fitered down by name or number
- -- Update an entry. Get and verify entry changed
- -- Delete an entry. Get and verify entry deleted
+ - Insert one or multiple entries
+ - Get those entries, they can also be fitered down by name or number
+ - Update an entry. Get and verify entry changed
+ - Delete an entry. Get and verify entry deleted
  
  
 This is just a basic structure to still be build on. However it can still be used for review.
